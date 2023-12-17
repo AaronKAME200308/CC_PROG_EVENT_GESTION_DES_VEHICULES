@@ -1,0 +1,33 @@
+/* body{
+    background-color:black;
+} */
+*{
+    background-color: green;
+}
+nav {
+    background: rgb(194, 198, 197);
+    font-family: Verdana, Geneva, Tahoma, ;
+}
+
+label.logo {
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    padding: 0 100px;
+    line-height: 80px;
+}
+div{
+    text-align: center;
+    justify-content: space-between;
+}
+h1{
+    color: Black;
+}
+a{
+    border-style: solid;
+    border-radius: 4px;
+    background-color: white;
+    text-decoration: none;
+    color:green;
+    border-color: white;
+}

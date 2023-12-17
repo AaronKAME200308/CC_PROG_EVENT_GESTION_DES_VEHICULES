@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+}
+
+td,
+th,
+tr {
+    border: 1px solid black;
+    padding: 8px;
+}
+div{
+    padding: 10px;
+}
+a{
+    border-style: solid;
+    border-radius: 4px;
+    background-color: white;
+    text-decoration: none;
+    color: green;
+    border-color: white;     
+}
